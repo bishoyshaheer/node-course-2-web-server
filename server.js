@@ -34,7 +34,8 @@ app.get('/about', (req, res) =>{
     name: 'bishoy',
     likes: [
       'reading',
-      'travelling'
+      'travelling',
+      'developing'
     ]
   });
 });
